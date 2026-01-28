@@ -1,4 +1,4 @@
-# Hi there👋, my name is Rufaisa Shah
+# Hi there👋, my name is Rufaisa Ashraf Shah
 
 I’m a Junior software developer with technical support background currently learning the fundamentals by building small projects and pushing my code here regularly.
 
