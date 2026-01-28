@@ -1,3 +1,5 @@
+# Hi, I'm Rufaisa 👋
+
 I’m a beginner software developer currently learning the fundamentals by building small projects and pushing my code here regularly.
 
 ---
