@@ -1,16 +1,25 @@
-## Hi there 👋
+I’m a beginner software developer currently learning the fundamentals by building small projects and pushing my code here regularly.
 
-<!--
-**Rufaisashah/Rufaisashah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌱 What I’m currently learning
+- Writing simple programs and understanding how code works.
+- Using GitHub for version control and project tracking.
+- Building basic web pages with HTML, CSS, and JS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🎯 My goal
+To build a strong foundation in software development and improve through consistent practice and real projects.
+
+---
+
+📌 What you’ll find here
+- Small beginner projects.
+- Practice code.
+- A record of my learning journey.
+
+---
+
+I believe learning in public helps me stay consistent and improve faster.
+
