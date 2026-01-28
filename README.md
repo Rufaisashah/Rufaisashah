@@ -1,6 +1,6 @@
 # Hi there👋, my name is Rufaisa Shah
 
-I’m a Junior software developer currently learning the fundamentals by building small projects and pushing my code here regularly.
+I’m a Junior software developer with technical support background currently learning the fundamentals by building small projects and pushing my code here regularly.
 
 ---
 
