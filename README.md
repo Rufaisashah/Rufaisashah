@@ -1,13 +1,13 @@
-# Hi, I'm Rufaisa 👋
+# Hi there👋, My name is Rufaisa Shah
 
-I’m a beginner software developer currently learning the fundamentals by building small projects and pushing my code here regularly.
+I’m a Junior software developer currently learning the fundamentals by building small projects and pushing my code here regularly.
 
 ---
 
 🌱 What I’m currently learning
-- Writing simple programs and understanding how code works.
-- Using GitHub for version control and project tracking.
-- Building basic web pages with HTML, CSS, and JS.
+- Building: Small, focused projects to master HTML, CSS, and JavaScript.
+- Learning: How to write clean code and manage projects efficiently with Git/GitHub.
+- Exploring: Both Front-end design and Back-end logic to understand the full stack.
 
 ---
 
