@@ -12,7 +12,7 @@ I’m a beginner software developer currently learning the fundamentals by build
 ---
 
 🎯 My goal
-To build a strong foundation in software development and improve through consistent practice and real projects.
+-To build a strong foundation in software development and improve through consistent practice and real projects.
 
 ---
 
