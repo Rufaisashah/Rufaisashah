@@ -5,9 +5,9 @@ I’m a Junior software developer with technical support background currently le
 ---
 
 🌱 What I’m currently learning
-- Building: Small, focused projects to master HTML, CSS, and JavaScript.
+- Building: Small,focused projects to master HTML, CSS,JavaScript, Nodejs,Express and Agile/Scrum methodologies.
 - Learning: How to write clean code and manage projects efficiently with Git/GitHub.
-- Exploring: Both Front-end design and Back-end logic to understand the full stack.
+- Exploring: Both Front-end design and Back-end logic and  to understand the full stack.
 
 ---
 
