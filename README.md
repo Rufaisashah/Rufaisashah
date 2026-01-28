@@ -24,7 +24,7 @@ I’m a Junior software developer with technical support background currently le
 ---
 ## 📂 Here Are My Projects
 
-[Here is my Hogwarts House Generator project](https://bit.ly/4ajug38).
+[Hogwarts House Generator project](https://bit.ly/4ajug38).
 
 --
 I believe learning in public helps me stay consistent and improve faster.
