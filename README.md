@@ -26,7 +26,7 @@ I’m a Junior software developer with technical support background currently le
 
 [Hogwarts House Generator project](https://bit.ly/4ajug38).
 
-[hyfBay Project](https://bit.ly/45E8qF3).
+[hyfBay Project](courses/foundation/intro-to-frontend/HYFBay).
 
 
 
