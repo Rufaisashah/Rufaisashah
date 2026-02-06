@@ -22,7 +22,7 @@ I’m a Junior software developer with technical support background currently le
 - A record of my learning journey.
 
 ---
-## 📂 Here Are My Projects:
+## 📂 Here Are My  learning Projects:
 
 [Hogwarts House Generator project](https://bit.ly/4ajug38).
 
