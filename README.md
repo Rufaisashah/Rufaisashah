@@ -5,7 +5,7 @@ I’m a Junior Web developer with technical support background currently learnin
 ---
 
 🌱 What I’m currently learning
-- Building: Small,focused projects to master HTML, CSS,JavaScript, Nodejs,Express and Agile/Scrum methodologies.
+- Building:Focused projects to master HTML, CSS,JavaScript, Nodejs,Express and Agile/Scrum methodologies.
 - Learning: How to write clean code and manage projects efficiently with Git/GitHub.
 - Exploring: Both Front-end design and Back-end logic and  to understand the full stack.
 
