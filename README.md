@@ -1,13 +1,16 @@
 # Hi there👋, my name is Rufaisa Ashraf Shah
 
-I’m a Junior Web developer with technical support background currently learning the fundamentals by building  projects and pushing my code here regularly.
+I’m a Web Developer with technical support background.I build clean, responsive projects with a focus on Frontend logic and user experience.
 
----
+--------
+What I bring to the table:
+----
 
-🌱 What I’m currently learning
-- Building:Focused projects to master HTML, CSS,JavaScript, Nodejs,Express and Agile/Scrum methodologies.
-- Learning: How to write clean code and manage projects efficiently with Git/GitHub.
-- Exploring: Both Front-end design and Back-end logic and  to understand the full stack.
+Logic-driven: I enjoy breaking down complex problems into simple code.
+
+Always Learning: Currently mastering Frontend development (HTML, CSS,JavaScript,React, Nodejs,Express and Agile/Scrum methodologies)
+
+Detail-Oriented: Whether it’s debugging or baking, I care about the final result. 😊
 
 
 
