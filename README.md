@@ -8,7 +8,7 @@ What I bring to the table:
 
 Logic-driven: I enjoy breaking down complex problems into simple code.
 
-Always Learning: Currently mastering Frontend development (HTML, CSS,JavaScript,React, Nodejs,Express and Agile/Scrum methodologies)
+Always Learning: Currently mastering Frontend and backend development (HTML, CSS,JavaScript,React, Nodejs,Express and Agile/Scrum methodologies)
 
 Detail-Oriented: Whether it’s debugging or baking, I care about the final result. 😊
 
