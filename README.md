@@ -28,7 +28,6 @@ Detail-Oriented: Whether it’s debugging or baking, I care about the final resu
 
 [Hogwarts House Generator project](https://bit.ly/4ajug38).
 
-[hyfBay Project](courses/foundation/intro-to-frontend/HYFBay).
 
 
 
