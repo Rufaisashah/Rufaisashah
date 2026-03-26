@@ -17,7 +17,8 @@ Detail-Oriented: Whether it’s debugging or baking, I care about the final resu
 ---
 ## 📂 Here Are My  learning Projects:
 # My Portfolio
-**Live Demo:**[https://rufaisashah.github.io/portfolio/]
+**Live Demo:**[ B
+[View the Live Demo](https://rufaisashah.github.io/portfolio/)
 
 # 🎴 Flip It - Memory Game
 
