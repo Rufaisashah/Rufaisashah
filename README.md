@@ -20,13 +20,6 @@ Detail-Oriented: Whether it’s debugging or baking, I care about clean, reliabl
 **Live Demo:**
 [View the Live Demo](https://rufaisashah.github.io/portfolio/)
 
-# 🎴 Flip It - Memory Game
-
-**Live Demo:**  [View The Live Demo](https://flip-it-n1z9.onrender.com/)
-
----
-
-[Hogwarts House Generator project](https://bit.ly/4ajug38).
 
 
 
