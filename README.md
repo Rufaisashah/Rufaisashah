@@ -1,20 +1,15 @@
-# Hi there 👋, I'm Rufaisa Ashraf Shah
+# Rufaisa Ashraf Shah
 
-**Frontend Developer** based in Denmark 🇩🇰 | HackYourFuture Graduate | Technical Support Background
+Frontend Developer in Denmark · HackYourFuture graduate
 
-I build clean, responsive web applications with a focus on frontend logic and user experience. I enjoy breaking down complex problems into simple, readable code.
+I build responsive web apps with React. Before development, I worked
+several years in technical support, which is where I learned to debug
+methodically and think from the user's side.
 
-🔗 **Portfolio:** [rufaisashah.github.io/portfolio](https://rufaisashah.github.io/portfolio/)
+Currently strengthening TypeScript fundamentals and
+exploring backend development with Node.js.
 
----
-
-##  What I Bring to the Table
-
--  **Logic-driven:** I enjoy breaking complex problems into small, simple steps
--  **Always learning:** Deepening my React and Typescript fundamentals and exploring backend development
-- 🤝 **Team experience:** Built a full graduation project in an Agile/Scrum team with code reviews and Git workflows
--  **Support background:** Years of technical support taught me patience, debugging instincts, and user empathy
-
+🔗 [Portfolio](https://rufaisashah.github.io/portfolio/)
 ---
 
 ## Tech Stack
