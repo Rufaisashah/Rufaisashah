@@ -42,7 +42,7 @@ exploring backend development with Node.js.
 
 ## 📂 Featured Projects
 
-### 🇩🇰 DanskBuddy — Danish Language Exchange App
+###  DanskBuddy — Danish Language Exchange App
 A React app connecting Danish learners with native speakers, built as my graduation project in a team of three using Agile/Scrum.
 
 - **My role:** Matches feature (requests/declined/connected tabs), responsive layout (sidebar + bottom navigation), global state with React Context, and AI-powered message translation via the Gemini API
@@ -50,7 +50,7 @@ A React app connecting Danish learners with native speakers, built as my graduat
 
   🔗 [Live Demo](https://dansk-buddy.vercel.app/)
 
-### 🎟️ HYF Events — Full-Stack Ticketing Platform
+### HYF Events — Full-Stack Ticketing Platform
 A solo full-stack project where users can browse events and book tickets, with secure authentication.
 
 - **Highlights:** JWT authentication, REST API, deployed frontend (Vercel) and backend (Render)
@@ -58,7 +58,7 @@ A solo full-stack project where users can browse events and book tickets, with s
 
 🔗 [Live Demo](https://event-startup-react-coursework.vercel.app/)
 
-### 🌌 Space Galactica
+###  Space Galactica
 A React app exploring NASA's public API, later migrated to Next.js with server-side rendering and dynamic routing.
 
 - **Tech:** React · Next.js · REST APIs · Vercel
@@ -69,7 +69,7 @@ A React app exploring NASA's public API, later migrated to Next.js with server-s
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rufaisa.ashraf@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rufaisashah)
