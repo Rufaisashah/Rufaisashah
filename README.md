@@ -17,7 +17,7 @@ I build clean, responsive web applications with a focus on frontend logic and us
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Frontend**
 
