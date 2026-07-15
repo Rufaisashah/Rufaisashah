@@ -11,7 +11,7 @@ I build clean, responsive web applications with a focus on frontend logic and us
 ##  What I Bring to the Table
 
 -  **Logic-driven:** I enjoy breaking complex problems into small, simple steps
--  **Always learning:** Deepening my React fundamentals and exploring backend development
+-  **Always learning:** Deepening my React and Typescript fundamentals and exploring backend development
 - 🤝 **Team experience:** Built a full graduation project in an Agile/Scrum team with code reviews and Git workflows
 -  **Support background:** Years of technical support taught me patience, debugging instincts, and user empathy
 
@@ -84,7 +84,8 @@ My portfolio site built in React with scroll-triggered animations and micro-inte
 
 ---
 
-⭐️ *Thanks for stopping by — feel free to explore my repositories!*
+⭐️ Thanks for stopping by 
+feel free to explore my repositories!
 
 
 
