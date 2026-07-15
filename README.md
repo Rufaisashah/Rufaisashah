@@ -65,10 +65,7 @@ A React app exploring NASA's public API, later migrated to Next.js with server-s
 
 🔗[Live Demo](https://space-galactica-phi.vercel.app)
 
-### 💼 Personal Portfolio
-My portfolio site built in React with scroll-triggered animations and micro-interactions.
 
-🔗 [View Live](https://rufaisashah.github.io/portfolio/)
 
 ---
 
