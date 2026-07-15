@@ -45,10 +45,10 @@ exploring backend development with Node.js.
 ###  DanskBuddy — Danish Language Exchange App
 A React app connecting Danish learners with native speakers, built as my graduation project in a team of three using Agile/Scrum.
 
-- **My role:** Matches feature (requests/declined/connected tabs), responsive layout (sidebar + bottom navigation), global state with React Context, and AI-powered message translation via the Gemini API
+**My role:** Matches feature (requests/declined/connected tabs), responsive layout (sidebar + bottom navigation), global state with React Context, and AI-powered message translation via the Gemini API
 - **Tech:** React · Vite · Tailwind CSS · Context API · Gemini API
 
-   [Live Demo](https://dansk-buddy.vercel.app/)
+[Live Demo](https://dansk-buddy.vercel.app/)
 
 ### HYF Events — Full-Stack Ticketing Platform
 A solo full-stack project where users can browse events and book tickets, with secure authentication.
