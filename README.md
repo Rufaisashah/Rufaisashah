@@ -1,6 +1,6 @@
 # Rufaisa Ashraf Shah
 
-Frontend Developer in Denmark · HackYourFuture graduate
+Frontend Developer having Technical Support background · HackYourFuture graduate
 
 I build responsive web apps with React. Before development, I worked
 several years in technical support, which is where I learned to debug
