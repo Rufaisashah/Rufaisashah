@@ -76,8 +76,7 @@ A React app exploring NASA's public API, later migrated to Next.js with server-s
 
 ---
 
-⭐️ Thanks for stopping by 
-feel free to explore my repositories!
+
 
 
 
