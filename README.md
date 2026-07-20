@@ -50,11 +50,11 @@ A React app connecting Danish learners with native speakers, built as my graduat
 
 [Live Demo](https://dansk-buddy.vercel.app/)
 
-### HYF Events — Full-Stack Ticketing Platform
-A solo full-stack project where users can browse events and book tickets, with secure authentication.
+### HYF Events — Event Ticketing Platform
+A solo React project where users can browse events, search with debounced input, and book tickets, with JWT-based authentication.
 
-- **Highlights:** JWT authentication, REST API, deployed frontend (Vercel) and backend (Render)
-- **Tech:** React · Node.js · Express · JWT
+Highlights: JWT authentication, debounced search, pagination, loading & error states on all fetches, deployed frontend (Vercel) and mock API (Render)
+Tech: React · Vite · React Router · Context API · json-server · JWT
 
  [Live Demo](https://event-startup-react-coursework.vercel.app/)
 
