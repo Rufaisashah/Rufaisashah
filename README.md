@@ -3,8 +3,7 @@
 Frontend Developer having Technical Support background · HackYourFuture graduate
 
 I build responsive web apps with React. Before development, I worked
-several years in technical support, which is where I learned to debug
-methodically and think from the user's side.
+several years in technical support.
 
 Currently strengthening TypeScript fundamentals and
 exploring backend development with Node.js.
