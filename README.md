@@ -8,7 +8,7 @@ several years in technical support.
 Currently strengthening TypeScript fundamentals and
 exploring backend development with Node.js.
 
-[Portfolio](https://rufaisashah.github.io/portfolio/)
+🔗 [Portfolio](https://rufaisashah.github.io/portfolio/)
 ---
 
 ## Tech Stack
@@ -47,7 +47,7 @@ A React app connecting Danish learners with native speakers, built as my graduat
 **My role:** Matches feature (requests/declined/connected tabs), responsive layout (sidebar + bottom navigation), global state with React Context, and AI-powered message translation via the Gemini API
 - **Tech:** React · Vite · Tailwind CSS · Context API · Gemini API
 
-[Live Demo](https://dansk-buddy.vercel.app/)
+🔗 [Live Demo](https://dansk-buddy.vercel.app/)
 
 ### HYF Events — Event Ticketing Platform
 A solo React project where users can browse events, search with debounced input, and book tickets, with JWT-based authentication.
@@ -55,14 +55,14 @@ A solo React project where users can browse events, search with debounced input,
 Highlights: JWT authentication, debounced search, pagination, loading & error states on all fetches, deployed frontend (Vercel) and mock API (Render)
 Tech: React · Vite · React Router · Context API · json-server · JWT
 
- [Live Demo](https://event-startup-react-coursework.vercel.app/)
+🔗  [Live Demo](https://event-startup-react-coursework.vercel.app/)
 
 ###  Space Galactica
 A React app exploring NASA's public API, later migrated to Next.js with server-side rendering and dynamic routing.
 
 - **Tech:** React · Next.js · REST APIs · Vercel
 
-[Live Demo](https://space-galactica-phi.vercel.app)
+🔗 [Live Demo](https://space-galactica-phi.vercel.app)
 
 
 
