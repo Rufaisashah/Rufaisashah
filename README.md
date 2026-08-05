@@ -41,7 +41,7 @@ exploring backend development with Node.js.
 
 ## Featured Projects
 
-###  DanskBuddy — Danish Language Exchange App
+###  DanskBuddy:Danish Language Exchange App
 A React app connecting Danish learners with native speakers, built as my graduation project in a team of three using Agile/Scrum.
 
 **My role:** Matches feature (requests/declined/connected tabs), responsive layout (sidebar + bottom navigation), global state with React Context, and AI-powered message translation via the Gemini API
@@ -49,7 +49,7 @@ A React app connecting Danish learners with native speakers, built as my graduat
 
 🔗 [Live Demo](https://dansk-buddy.vercel.app/)
 
-### HYF Events — Event Ticketing Platform
+### HYF Events:Event Ticketing Platform
 A solo React project where users can browse events, search with debounced input, and book tickets, with JWT-based authentication.
 
 Highlights: JWT authentication, debounced search, pagination, loading & error states on all fetches, deployed frontend (Vercel) and mock API (Render)
