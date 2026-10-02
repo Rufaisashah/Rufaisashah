@@ -53,7 +53,7 @@ A React app connecting Danish learners with native speakers, built as my graduat
 A solo React project where users can browse events, search with debounced input, and book tickets, with JWT-based authentication.
 
 -**Tech**: JWT authentication, debounced search, pagination, loading & error states on all fetches, deployed frontend (Vercel) and mock API (Render)
-Tech: React · Vite · React Router · Context API · json-server · JWT
+-**Tech**: React · Vite · React Router · Context API · json-server · JWT
 
 🔗  [Live Demo](https://event-startup-react-coursework.vercel.app/)
 
